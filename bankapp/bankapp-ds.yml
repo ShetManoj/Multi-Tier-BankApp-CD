@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: 1manojshet/multitierbankapp:version7
+        image: 1manojshet/multitierbankapp:manoj
         ports:
         - containerPort: 8080
         env:
